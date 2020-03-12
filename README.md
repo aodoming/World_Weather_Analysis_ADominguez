@@ -12,13 +12,14 @@ Series of plots that visually and statistically show the relationship between a 
 
 * Travel Map with Pop-Ups
 
+
 <img align="left" width="650" src="/weather_data/WeatherPy_travel_map.png"><br/><br/><br/><br/>
 
 
 
 * Travel Map with Markers
 
-<img align="left" width="650" src="/weather_data/WeatherPy_travel_map_markers.png"><br/><br/><br/><br/>
+<br/><br/><img align="left" width="650" src="/weather_data/WeatherPy_travel_map_markers.png"><br/><br/><br/><br/>
 
 
 
