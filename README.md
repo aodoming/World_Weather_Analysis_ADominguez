@@ -27,7 +27,7 @@ Series of plots that visually and statistically show the relationship between a 
 <img align="center" width="650" src="/weather_data/WeatherPy_vacation_map.png"><br/><br/><br/>
 
 
-### Things Learned
+### THINGS LEARNED
 
 
 ### SOFTWARE/SKILLS USED
