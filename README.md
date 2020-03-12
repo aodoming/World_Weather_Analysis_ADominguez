@@ -10,19 +10,19 @@ Retrieving data from a web Application Programming Interface (API) because of it
 Series of plots that visually and statistically show the relationship between a latitude and a variety of weather parameters.
 
 
-* Travel Map with Pop-Ups<br/>
+* Heat Map with Pop-Ups
 
 <img align="center" width="650" src="/weather_data/WeatherPy_travel_map.png"><br/><br/><br/>
 
 
 
-* Travel Map with Markers
+* Heat Map with Markers
 
 <img align="center" width="650" src="/weather_data/WeatherPy_travel_map_markers.png"><br/><br/><br/>
 
 
 
-* Satellite View of Some Vacation Spots
+* Heat Map - Satellite View of Some Vacation Spots
 
 <img align="center" width="650" src="/weather_data/WeatherPy_vacation_map.png"><br/><br/><br/>
 
