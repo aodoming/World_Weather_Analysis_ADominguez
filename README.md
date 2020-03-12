@@ -26,11 +26,19 @@ Series of plots that visually and statistically show the relationship between a 
 
 <img align="center" width="650" src="/weather_data/WeatherPy_vacation_map.png"><br/><br/><br/>
 
-### THINGS LEARNED
 
+### THINGS LEARNED
+* Analysis, Visualization and Statistical Skills.
+* Python Decision and Repetitioon Statements and Data Structures.
+* Using New Python Libraries and Modules.
+* Using Retrieved Data from an API "get" request to a Server.
+* Storing Information from JSON Data.
+* Writing Python Functions
+* Creating Scatter Plots using Matplotlib Library.
+* Performing Linear Regression and Adding Lines to Scatter Plots.
+* Creating Heatmaps with Markers using Google Maps API.
 
 ### SOFTWARE/SKILLS USED
-
 Python, Jupyter Notebook, Matplotlib,Pandas Library, CityPy, Python Requests, APIs, SciPy Statistics and JSON Traversals
 
 
