@@ -18,14 +18,13 @@ Series of plots that visually and statistically show the relationship between a 
 
 * Travel Map with Markers
 
-<br/><br/><img align="center" width="650" src="/weather_data/WeatherPy_travel_map_markers.png"><br/><br/><br/>
+<img align="center" width="650" src="/weather_data/WeatherPy_travel_map_markers.png"><br/><br/><br/>
 
 
 
 * Satellite View of Some Vacation Spots
 
 <img align="center" width="650" src="/weather_data/WeatherPy_vacation_map.png"><br/><br/><br/>
-
 
 ### THINGS LEARNED
 
