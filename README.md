@@ -10,7 +10,7 @@ Retrieving data from a web Application Programming Interface (API) because of it
 Series of plots that visually and statistically show the relationship between a latitude and a variety of weather parameters.
 
 
-* Travel Map with Pop-Ups
+* Travel Map with Pop-Ups<br/>
 
 
 <img align="left" width="650" src="/weather_data/WeatherPy_travel_map.png"><br/><br/><br/><br/>
