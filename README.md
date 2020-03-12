@@ -12,7 +12,6 @@ Series of plots that visually and statistically show the relationship between a 
 
 * Travel Map with Pop-Ups<br/>
 
-
 <img align="center" width="650" src="/weather_data/WeatherPy_travel_map.png"><br/><br/><br/>
 
 
@@ -28,11 +27,13 @@ Series of plots that visually and statistically show the relationship between a 
 <img align="center" width="650" src="/weather_data/WeatherPy_vacation_map.png"><br/><br/><br/>
 
 
+### Things Learned
 
 
 ### SOFTWARE/SKILLS USED
 
 Python, Jupyter Notebook, Matplotlib,Pandas Library, CityPy, Python Requests, APIs, SciPy Statistics and JSON Traversals
+
 
 
 
