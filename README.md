@@ -33,7 +33,7 @@ Series of plots that visually and statistically show the relationship between a 
 * Using New Python Libraries and Modules.
 * Using Retrieved Data from an API "get" request to a Server.
 * Storing Information from JSON Data.
-* Writing Python Functions
+* Writing Python Functions.
 * Creating Scatter Plots using Matplotlib Library.
 * Performing Linear Regression and Adding Lines to Scatter Plots.
 * Creating Heatmaps with Markers using Google Maps API.
