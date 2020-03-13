@@ -38,7 +38,7 @@ Series of plots that visually and statistically show the relationship between a 
 * Performing Linear Regression and Adding Lines to Scatter Plots.
 * Creating Heatmaps with Markers using Google Maps API.
 
-### SOFTWARE/SKILLS USED
+### SOFTWARE/TOOLS
 Python, Jupyter Notebook, Matplotlib,Pandas Library, CityPy, Python Requests, APIs, SciPy Statistics and JSON Traversals
 
 ### LIVE DEMO
